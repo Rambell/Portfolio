@@ -1,0 +1,14 @@
+.cover {
+    height: 400px;
+    background-color: red;
+
+}
+
+body{
+    height: min-content;
+    color:brown
+}
+
+div{
+    color: aqua;
+}
